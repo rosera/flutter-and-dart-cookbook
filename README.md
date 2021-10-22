@@ -61,5 +61,5 @@ Companion repository for O'Reilly Full Stack Cookbook
 ## Chapter 9 Databases I
 - [ ] Firebase Firestore
 - [ ] MongoDB
-- [ ] MySql
+- [ ] MySQL
 - [ ] PostgreSQL
