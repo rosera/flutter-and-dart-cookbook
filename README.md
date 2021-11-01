@@ -2,17 +2,18 @@
 Companion repository for O'Reilly Full Stack Cookbook
 
 ## Chapter 1 Dart Essentials I
-- [ ] How to install the Dart SDK
-- [ ] How to run a Dart application
-- [ ] How to declare variables
-- [ ] How to use the print statement
-- [ ] How to use the If statement
-- [ ] How to use while/do while
-- [ ] How to use a For statement
-- [ ] How to use a Switch statement
-- [ ] How to use an Enum
-- [ ] How to use a Const
-- [ ] How to use a Final 
+- [x] How to install the Dart SDK
+- [x] How to run a Dart application
+- [x] How to declare variables
+- [x] How to use the print statement
+- [x] How to use the If statement
+- [x] How to use while/do while
+- [x] How to use a For statement
+- [x] How to use a Switch statement
+- [x] How to use an Enum
+- [x] How to use a Const
+- [x] How to use a Final 
+
 ## Chapter 2 Dart Essentials II
 - [ ] How to declare functions
 - [ ] How to declare anoynomous functions
@@ -25,6 +26,7 @@ Companion repository for O'Reilly Full Stack Cookbook
 - [ ] How to work with Null
 - [ ] How to handle Exceptions
 - [ ] How to use Import
+
 ## Chapter 3 Flutter Essentials I
 - [ ] Mocking an application interface
 - [ ] Create a Flutter Project
