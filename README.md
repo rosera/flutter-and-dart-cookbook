@@ -2,23 +2,29 @@
 Companion repository for O'Reilly Full Stack Cookbook
 
 ## Chapter 1 Dart Essentials I
-- [ ] Create a Dart Project
-- [ ] Run a Dart application
-- [ ] Declare variables
-- [ ] Create a new data type
-- [ ] Using the If statement
-- [ ] Using while/do while
-- [ ] Using For
-- [ ] Using switch
-- [ ] Using enum
+- [ ] How to install the Dart SDK
+- [ ] How to run a Dart application
+- [ ] How to declare variables
+- [ ] How to use the print statement
+- [ ] How to use the If statement
+- [ ] How to use while/do while
+- [ ] How to use a For statement
+- [ ] How to use a Switch statement
+- [ ] How to use an Enum
+- [ ] How to use a Const
+- [ ] How to use a Final 
 ## Chapter 2 Dart Essentials II
-- [ ] Declare functions
-- [ ] Declare anoynomous functions
-- [ ] Declare classes
-- [ ] Extending clasess
-- [ ] Declare constructors
-- [ ] Using mixins
-- [ ] Using import statements
+- [ ] How to declare functions
+- [ ] How to declare anoynomous functions
+- [ ] How to declare classes
+- [ ] How to declare constructors
+- [ ] How to extend clasess
+- [ ] How to use mixins
+- [ ] How to use Lists
+- [ ] How to use a Map
+- [ ] How to work with Null
+- [ ] How to handle Exceptions
+- [ ] How to use Import
 ## Chapter 3 Flutter Essentials I
 - [ ] Mocking an application interface
 - [ ] Create a Flutter Project
