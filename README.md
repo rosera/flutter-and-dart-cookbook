@@ -15,17 +15,17 @@ Companion repository for O'Reilly Full Stack Cookbook
 - [x] [1.11 How to use a Final](https://github.com/rosera/flutter-full-stack-examples/blob/main/ch01/ex1-11.md) 
 
 ## Chapter 2 Dart Essentials II
-- [ ] How to declare functions
-- [ ] How to declare anoynomous functions
-- [ ] How to declare classes
-- [ ] How to declare constructors
-- [ ] How to extend clasess
-- [ ] How to use mixins
-- [ ] How to use Lists
-- [ ] How to use a Map
-- [ ] How to work with Null
-- [ ] How to handle Exceptions
-- [ ] How to use Import
+- [x] [How to declare functions](https://github.com/rosera/flutter-full-stack-examples/blob/main/ch02/ex2-1.md) 
+- [x] [How to declare anoynomous functions](https://github.com/rosera/flutter-full-stack-examples/blob/main/ch02/ex2-2.md) 
+- [x] [How to declare classes](https://github.com/rosera/flutter-full-stack-examples/blob/main/ch02/ex2-3.md) 
+- [x] [How to declare constructors](https://github.com/rosera/flutter-full-stack-examples/blob/main/ch02/ex2-4.md) 
+- [x] [How to extend clasess](https://github.com/rosera/flutter-full-stack-examples/blob/main/ch02/ex2-5.md) 
+- [x] [How to use mixins](https://github.com/rosera/flutter-full-stack-examples/blob/main/ch02/ex2-6.md) 
+- [x] [How to use Lists](https://github.com/rosera/flutter-full-stack-examples/blob/main/ch02/ex2-7.md) 
+- [x] [How to use a Map](https://github.com/rosera/flutter-full-stack-examples/blob/main/ch02/ex2-8.md) 
+- [x] [How to work with Null](https://github.com/rosera/flutter-full-stack-examples/blob/main/ch02/ex2-9.md) 
+- [x] [How to handle Exceptions](https://github.com/rosera/flutter-full-stack-examples/blob/main/ch02/ex2-10.md) 
+- [x] [How to use Import](https://github.com/rosera/flutter-full-stack-examples/blob/main/ch02/ex2-11.md) 
 
 ## Chapter 3 Flutter Essentials I
 - [ ] Mocking an application interface
