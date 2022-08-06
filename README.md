@@ -1,9 +1,10 @@
 # Flutter Full Stack examples
 
-Developing Full-Stack Application for the Cloud
+Developing Full-Stack Applications for the Cloud
+
 ![Flutter & Dart Cookbook](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/images/flutter-dart-cookbook-sml.png "Flutter & Dart Cookbook")
 
-Companion repository for O'Reilly Full Stack Cookbook
+Companion repository for O'Reilly Flutter & Dart Full Stack Cookbook
 
 ## Chapter 1 Dart Essentials I
 - [x] [1.1 How to install the Dart SDK](https://github.com/rosera/flutter-full-stack-examples/blob/main/ch01/ex1-1.md)
