@@ -6,7 +6,7 @@ Developing Full-Stack Applications for the Cloud
 
 Companion repository for O'Reilly Flutter & Dart Full Stack Cookbook
 
-## Chapter 1 Dart Essentials I
+## [Chapter 1 Dart Essentials I](https://github.com/rosera/flutter-and-dart-cookbook/tree/main/ch01)
 - [x] [1.1 How to install the Dart SDK](https://github.com/rosera/flutter-full-stack-examples/blob/main/ch01/ex1-1.md)
 - [x] [1.2 How to run a Dart application](https://github.com/rosera/flutter-full-stack-examples/blob/main/ch01/ex1-2.md)
 - [x] [1.3 How to declare variables](https://github.com/rosera/flutter-full-stack-examples/blob/main/ch01/ex1-3.md)
@@ -19,7 +19,7 @@ Companion repository for O'Reilly Flutter & Dart Full Stack Cookbook
 - [x] [1.10 How to use a Const](https://github.com/rosera/flutter-full-stack-examples/blob/main/ch01/ex1-10.md)
 - [x] [1.11 How to use a Final](https://github.com/rosera/flutter-full-stack-examples/blob/main/ch01/ex1-11.md) 
 
-## Chapter 2 Dart Essentials II
+## [Chapter 2 Dart Essentials II](https://github.com/rosera/flutter-and-dart-cookbook/tree/main/ch02)
 - [x] [How to declare functions](https://github.com/rosera/flutter-full-stack-examples/blob/main/ch02/ex2-1.md) 
 - [x] [How to declare anoynomous functions](https://github.com/rosera/flutter-full-stack-examples/blob/main/ch02/ex2-2.md) 
 - [x] [How to declare classes](https://github.com/rosera/flutter-full-stack-examples/blob/main/ch02/ex2-3.md) 
@@ -32,7 +32,7 @@ Companion repository for O'Reilly Flutter & Dart Full Stack Cookbook
 - [x] [How to handle Exceptions](https://github.com/rosera/flutter-full-stack-examples/blob/main/ch02/ex2-10.md) 
 - [x] [How to use Import](https://github.com/rosera/flutter-full-stack-examples/blob/main/ch02/ex2-11.md) 
 
-## Chapter 3 Flutter Essentials I
+## [Chapter 3 Flutter Essentials I](https://github.com/rosera/flutter-and-dart-cookbook/tree/main/ch03)
 - [ ] Mocking an application interface
 - [ ] Create a Flutter Project
 - [ ] Building with Widgets
@@ -44,7 +44,8 @@ Companion repository for O'Reilly Flutter & Dart Full Stack Cookbook
 - [ ] Adding a snackbar
 - [ ] adding SliverAppBar
 - [ ] Determining the platform
-## Chapter 4 Flutter Essentials II
+
+## [Chapter 4 Flutter Essentials II](https://github.com/rosera/flutter-and-dart-cookbook/tree/main/ch04)
 - [ ] Using Expanded
 - [ ] Using Circle Avatar
 - [ ] Using Media Query
@@ -56,22 +57,27 @@ Companion repository for O'Reilly Flutter & Dart Full Stack Cookbook
 - [ ] Adding a Drawer
 - [ ] Adding a Gridview
 - [ ] Adding an introduction screen (Splash)
-## Chapter 5 Flutter Essentials III
+
+## [Chapter 5 Flutter Essentials III](https://github.com/rosera/flutter-and-dart-cookbook/tree/main/ch05)
 - [ ] Using local data management
 - [ ] Using JSON
 - [ ] Adding a Future loader
-## Chapter 6 Cloud Essentials I
+
+## [Chapter 6 Cloud Essentials I](https://github.com/rosera/flutter-and-dart-cookbook/tree/main/ch06)
 - [ ] Cloud Providers - e.g. Google Cloud, AWS, Azure
 - [ ] Using Cloud Object Storage
 - [ ] Using Workspace APIs
-## Chapter 7 Cloud Essentials II
+
+## [Chapter 7 Cloud Essentials II](https://github.com/rosera/flutter-and-dart-cookbook/tree/main/ch07)
 - [ ] Google Cloud Run
 - [ ] AWS Lamba
 - [ ] Azure Functions
-## Chapter 8 Authentication I
+
+## [Chapter 8 Authentication I](https://github.com/rosera/flutter-and-dart-cookbook/tree/main/ch08)
 - [ ] Passport
 - [ ] Firebase Authentication
-## Chapter 9 Databases I
+
+## [Chapter 9 Databases I](https://github.com/rosera/flutter-and-dart-cookbook/tree/main/ch09)
 - [ ] Firebase Firestore
 - [ ] MongoDB
 - [ ] MySQL
