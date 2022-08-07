@@ -7,7 +7,7 @@ Developing Full-Stack Applications for the Cloud
 
 Companion repository for O'Reilly Flutter & Dart Full Stack Cookbook
 
-## Dart Essentials I
+## Learning Dart variables 
 
 - [x] [2.1  Declaring an Integer variable  
 ](http://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch02/ex2-1.md)
