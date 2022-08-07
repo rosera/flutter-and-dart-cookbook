@@ -6,8 +6,8 @@ Developing Full-Stack Applications for the Cloud
 
 Companion repository for O'Reilly Flutter & Dart Full Stack Cookbook
 
-## Dart Essentials I
-
+## Setting up your environment 
+ 
 - [x] [1.1 How to install the Dart SDK](http://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch01/ex1-1.md)
 - [x] [1.2 How to run a Dart application](http://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch01/ex1-2.md)
 - [x] [1.3 Extending Android Studio to support Dart](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch01/ex1-3.md
