@@ -7,7 +7,7 @@ Developing Full-Stack Applications for the Cloud
 
 Companion repository for O'Reilly Flutter & Dart Full Stack Cookbook
 
-## Dart Essentials I
+## Exploring control flow 
 
 - [x] [3.1 Using an If statement](https://github.com/rosera/flutter-full-stack-examples/blob/main/ch03/ex3-1.md)
 - [x] [3.2 Using While/Do while](https://github.com/rosera/flutter-full-stack-examples/blob/main/ch03/ex3-2.md)
