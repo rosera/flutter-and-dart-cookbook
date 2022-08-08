@@ -7,16 +7,10 @@ Developing Full-Stack Applications for the Cloud
 
 Companion repository for O'Reilly Flutter & Dart Full Stack Cookbook
 
-## Dart Essentials I
+## Flutter page navigation 
 
-- [x] [1.1 How to install the Dart SDK](https://github.com/rosera/flutter-full-stack-examples/blob/main/ch01/ex1-1.md)
-- [x] [1.2 How to run a Dart application](https://github.com/rosera/flutter-full-stack-examples/blob/main/ch01/ex1-2.md)
-- [x] [1.3 How to declare variables](https://github.com/rosera/flutter-full-stack-examples/blob/main/ch01/ex1-3.md)
-- [x] [1.4 How to use the print statement](https://github.com/rosera/flutter-full-stack-examples/blob/main/ch01/ex1-4.md)
-- [x] [1.5 How to use the If statement](https://github.com/rosera/flutter-full-stack-examples/blob/main/ch01/ex1-5.md)
-- [x] [1.6 How to use while/do while](https://github.com/rosera/flutter-full-stack-examples/blob/main/ch01/ex1-6.md)
-- [x] [1.7 How to use a For statement](https://github.com/rosera/flutter-full-stack-examples/blob/main/ch01/ex1-7.md)
-- [x] [1.8 How to use a Switch statement](https://github.com/rosera/flutter-full-stack-examples/blob/main/ch01/ex1-8.md)
-- [x] [1.9 How to use an Enum](https://github.com/rosera/flutter-full-stack-examples/blob/main/ch01/ex1-9.md)
-- [x] [1.10 How to use a Const](https://github.com/rosera/flutter-full-stack-examples/blob/main/ch01/ex1-10.md)
-- [x] [1.11 How to use a Final](https://github.com/rosera/flutter-full-stack-examples/blob/main/ch01/ex1-11.md) 
+- [x] [11.1 Adding page navigation with routes ](https://github.com/rosera/flutter-full-stack-examples/blob/main/ch11/ex11-1.md)
+- [x] [11.2 Implementing a navigational drawer](https://github.com/rosera/flutter-full-stack-examples/blob/main/ch11/ex11-2.md)
+- [x] [11.3 Working with tabs](https://github.com/rosera/flutter-full-stack-examples/blob/main/ch11/ex11-3.md)
+- [x] [11.4 Adding bottom navigation ](https://github.com/rosera/flutter-full-stack-examples/blob/main/ch11/ex11-4.md)
+- [x] [11.5 Using keys to pass information](https://github.com/rosera/flutter-full-stack-examples/blob/main/ch11/ex11-5.md)
