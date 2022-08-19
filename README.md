@@ -11,7 +11,7 @@ Companion repository for O'Reilly Flutter & Dart Full Stack Cookbook
  
 - [x] [1.1 How to install the Dart SDK](http://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch01/ex1-1.md)
 - [x] [1.2 How to run a Dart application](http://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch01/ex1-2.md)
-- [x] [1.3 Extending Android Studio to support Dart](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch01/ex1-3.md
+- [x] [1.3 Extending Android Studio to support Dart](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch01/ex1-3.md)
 - [x] [1.4 Developing with VS Code](http://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch01/ex1-4.md)
 - [x] [1.5 Installing the Dart SDK](http://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch01/ex1-5.md)
 - [x] [1.6 Running a Dart application](http://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch01/ex1-6.md)
@@ -21,8 +21,8 @@ Companion repository for O'Reilly Flutter & Dart Full Stack Cookbook
 ## [Chapter 2 Learning Dart variables](https://github.com/rosera/flutter-and-dart-cookbook/tree/main/ch02)
 
 
-- [x] [2.1 Declaring an integer variable](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch02/ex2-1.md
-- [x] [2.2 Declaring a Double variable](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch02/ex2-2.md
+- [x] [2.1 Declaring an integer variable](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch02/ex2-1.md)
+- [x] [2.2 Declaring a Double variable](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch02/ex2-2.md)
 - [x] [2.3 Declaring a bool variable](http://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch02/ex2-3.md)
 - [x] [2.4 Declaring a string variable](http://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch02/ex2-4.md)
 - [x] [2.5 Using a print statement](http://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch02/ex2-5.md)
