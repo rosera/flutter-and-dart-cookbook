@@ -1,0 +1,16 @@
+# Using Flutter Web with Firebase Hosting
+
+## Example: Firevase Emulator Suite
+
+```bash
+firebase init
+```
+
+```bash
+flutter build web
+```
+
+```bash
+firebase emulators:start --only hosting
+```
+
