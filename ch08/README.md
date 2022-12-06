@@ -9,7 +9,7 @@ Companion repository for O'Reilly Flutter & Dart Full Stack Cookbook
 
 ## Working with widgets 
 
-- [x] [8.1 Using the scaffold class](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch08ex8-1.md)
+- [x] [8.1 Using the scaffold class](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch08/ex8-1.md)
 - [x] [8.2 Using an AppBar](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch08/ex8-2.md)
 - [x] [8.3 Using an Expanded widget](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch08/ex8-3.md)
 - [x] [8.4 Building with a container](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch08/ex8-4.md)
