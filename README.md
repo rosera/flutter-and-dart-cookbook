@@ -55,11 +55,11 @@ Companion repository for O'Reilly Flutter & Dart Full Stack Cookbook
 
 
 - [x] [5.1 Using a map to handle objects](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch05/ex5-1.md)
-- [x] [5.2 Retrieving map content](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch05/ex5-2.md)
-- [x] [5.3 Validating key existence within a map](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch05/ex5-3.md)
-- [x] [5.4 Working with lists](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch05/ex5-4.md)
-- [x] [5.5 Adding list content](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch05/ex5-5.md)
-- [x] [5.6 Using lists with complex types](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch05/ex5-6.md)
+- [x] [5.2 Retrieving Map content](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch05/ex5-2.md)
+- [x] [5.3 Validating key existence within a Map](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch05/ex5-3.md)
+- [x] [5.4 Working with Lists](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch05/ex5-4.md)
+- [x] [5.5 Adding List content](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch05/ex5-5.md)
+- [x] [5.6 Using Lists with complex types](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch05/ex5-6.md)
 
 ## [Chapter 6 Leveraging classes](https://github.com/rosera/flutter-and-dart-cookbook/tree/main/ch06)
 
@@ -84,10 +84,10 @@ Companion repository for O'Reilly Flutter & Dart Full Stack Cookbook
 ## [Chapter 8 Working with widgets](https://github.com/rosera/flutter-and-dart-cookbook/tree/main/ch08)
 
 
-- [x] [8.1 Using the scaffold class](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch08ex8-1.md)
+- [x] [8.1 Using the Scaffold class](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch08ex8-1.md)
 - [x] [8.2 Using an AppBar](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch08/ex8-2.md)
 - [x] [8.3 Using an Expanded widget](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch08/ex8-3.md)
-- [x] [8.4 Building with a container](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch08/ex8-4.md)
+- [x] [8.4 Building with a Container](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch08/ex8-4.md)
 - [x] [8.5 Using a Center widget](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch08/ex8-5.md)
 - [x] [8.6 Using a SizedBox](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch08/ex8-6.md)
 - [x] [8.7 Using a Column](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch08/ex8-7.md)
@@ -142,8 +142,8 @@ Companion repository for O'Reilly Flutter & Dart Full Stack Cookbook
 - [x] [13.1 Introducing cloud providers](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch13/ex13-1.md)
 - [x] [13.2 Working with identity and access management](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch13/ex13-2.md)
 - [x] [13.3 Using cloud storage to host and API](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch13/ex13-3.md)
-- [x] [13.4 Using a spreadsheet as a backend](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch13/ex13-4.md)
-- [x] [13.5 Developing with serverless (cloud run)](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch13/ex13-5.md)
+- [x] [13.4 Using a Google Sheet as a backend](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch13/ex13-4.md)
+- [x] [13.5 Developing with Cloud Run serverless (cloud run)](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch13/ex13-5.md)
 
 ## [Chapter 14 Working with Firebase and Flutter](https://github.com/rosera/flutter-and-dart-cookbook/tree/main/ch14)
 
@@ -154,12 +154,12 @@ Companion repository for O'Reilly Flutter & Dart Full Stack Cookbook
 - [x] [14.4 Firebase/Flutter client integration](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch14/ex14-4.md)
 - [x] [14.5 Configuring Firebase emulators for local development](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch14/ex14-5.md)
 - [x] [14.6 Adding Firebase authentication to Flutter ](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch14/ex14-6.md)
-- [x] [14.7 Setting up cloud Firestore](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch14/ex14-7.md)
-- [x] [14.8 Writing data to cloud Firestore](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch14/ex14-8.md)
-- [x] [14.9 Reading data from cloud Firestore](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch14/ex14-9.md)
+- [x] [14.7 Setting up Cloud Firestore](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch14/ex14-7.md)
+- [x] [14.8 Writing data to Cloud Firestore](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch14/ex14-8.md)
+- [x] [14.9 Reading data from Cloud Firestore](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch14/ex14-9.md)
 
 
-## [Chapter 15 Starting game development](https://github.com/rosera/flutter-and-dart-cookbook/tree/main/ch15)
+## [Chapter 15 Starting Game development](https://github.com/rosera/flutter-and-dart-cookbook/tree/main/ch15)
 
 
 - [x] [15.1 Adding the Flame package to Flutter](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch15/ex15-1.md)
@@ -170,7 +170,7 @@ Companion repository for O'Reilly Flutter & Dart Full Stack Cookbook
 - [x] [15.6 Adding sound effects to a Flame game](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch15/ex15-6.md)
 - [x] [15.7 Adding keyboard input](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch15/ex15-7.md)
 - [x] [15.8 Adding collision detection](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch15/ex15-8.md)
-- [x] [15.9 Adding inout for user interactivity](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch15/ex15-9.md)
+- [x] [15.9 Adding input for user interactivity](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch15/ex15-9.md)
 
 
 ## [Chapter 16 Using Dart test cases](https://github.com/rosera/flutter-and-dart-cookbook/tree/main/ch16)
