@@ -1,61 +1,16 @@
-# Adding flutterfire_cli to a Development
+# Using Flutter Web with Firebase Hosting
 
-## Example: The flutterfire_cli Package
-
-```bash
-dart pub global activate flutterfire_cli
-
-```
-
-## Example: Configure
+## Example: Firevase Emulator Suite
 
 ```bash
-flutterfire configure --project=[PROJECT_ID]
+firebase init
 ```
 
-## Example Configuration
+```bash
+flutter build web
+```
 
-```dart
-class DefaultFirebaseOptions {
-  static FirebaseOptions get currentPlatform {
-    if (kIsWeb) {
-      return web;
-    }
-    switch (defaultTargetPlatform) {
-      case TargetPlatform.android:
-        return android;
-      case TargetPlatform.iOS:
-        return ios;
-      case TargetPlatform.macOS:
-        throw UnsupportedError(
-          'DefaultFirebaseOptions have not been configured for macos - '
-          'you can reconfigure this by running the FlutterFire CLI again.',
-        );
-      case TargetPlatform.windows:
-        throw UnsupportedError(
-          'DefaultFirebaseOptions have not been configured for windows - '
-          'you can reconfigure this by running the FlutterFire CLI again.',
-        );
-      case TargetPlatform.linux:
-        throw UnsupportedError(
-          'DefaultFirebaseOptions have not been configured for linux - '
-          'you can reconfigure this by running the FlutterFire CLI again.',
-        );
-      default:
-        throw UnsupportedError(
-          'DefaultFirebaseOptions are not supported for this platform.',
-        );
-    }
-  }
-
-  static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'XXXXXXXXXXXXXXX',
-    appId: '9:99999999999:web:99999999999',
-    messagingSenderId: '99999999999',
-    projectId: 'test-firebase-999999',
-    authDomain: 'test-firebase-999999.firebaseapp.com',
-    storageBucket: 'test-firebase-99999.appspot.com',
-  );
-}
+```bash
+firebase emulators:start --only hosting
 ```
 
