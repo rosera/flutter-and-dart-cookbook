@@ -15,3 +15,4 @@ Companion repository for O'Reilly Flutter & Dart Full Stack Cookbook
 - [x] [5.4 Working with lists](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch05/ex5-4.md)
 - [x] [5.5 Adding list content](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch05/ex5-5.md)
 - [x] [5.6 Using lists with complex types](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch05/ex5-6.md)
+- [x] [5.7 Printing Complex Data Types](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch05/ex5-7.md)

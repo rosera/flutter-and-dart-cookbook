@@ -9,8 +9,8 @@ Companion repository for O'Reilly Flutter & Dart Full Stack Cookbook
 
 ## Leveraging classes 
 
-- [x] [6.1 Defining classes](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch06/ex6-1.md)
-- [x] [6.2 Using class constructors](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch06/ex6-2.md)
-- [x] [6.3 Extending a class](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch06/ex6-3.md)
-- [x] [6.4 Extending classes with mixins](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch06/ex6-4.md)
-- [x] [6.5 Importing a package](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch06/ex6-5.md)
+- [x] [6.1 Creating a class](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch06/ex6-1.md)
+- [x] [6.2 Initializing a class using a constructor](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch06/ex6-2.md)
+- [x] [6.3 Adding class Inheritance](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch06/ex6-3.md)
+- [x] [6.4 Adding a Class Interface](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch06/ex6-4.md)
+- [x] [6.5 Adding a Class Mixin](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch06/ex6-5.md)
