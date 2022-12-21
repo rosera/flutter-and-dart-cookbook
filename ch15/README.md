@@ -23,7 +23,7 @@ Companion repository for O'Reilly Flutter & Dart Full Stack Cookbook
 
 Where practical the examples will work on [Dartpad.dev](https://dartpad.dev)
 
-1. Flame Solar System
+1. [Flame Solar System](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch15/examples/lab01/flame_solar_system.md)
 
 A quick example showing how to use the Flame game engine to create a solar system model.
 
