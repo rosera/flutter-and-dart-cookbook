@@ -1,4 +1,4 @@
-# 2.1 Declaring an Integer variable
+# 1.2 Declaring an Integer variable
  
 ## Example
 
