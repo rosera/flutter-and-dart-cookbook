@@ -34,11 +34,12 @@ Companion repository for O'Reilly Flutter & Dart Full Stack Cookbook
 ## [Chapter 3 Implementing Functions](https://github.com/rosera/flutter-and-dart-cookbook/tree/main/ch03)
 
 
-- [x] [3.1 Declaring functions](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch03/ex-function.md)
-- [x] [3.2 Adding Parameters to functions](https://github.com/rosera/flutter-/nd-dart-cookbook/blob/main/ch03/ex-function-parameters.md)
-- [x] [3.3 Returning values from functions](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch03/ex-function-return.md)
-- [x] [3.4 Declaring anonymous functions](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch03/ex-function-anon.md)
-- [x] [3.5 Using optional parameters](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch03/ex-function-optional.md)
+- [x] [3.1 Declaring functions](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch03/ex3-1.md)
+- [x] [3.2 Adding Parameters to functions](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch03/ex3-2.md)
+- [x] [3.3 Returning values from functions](https://github.com/rosera/flutter-and-dart-cookbbokblob/main/ch03/ex3-3.md)
+- [x] [3.4 Declaring anonymous functions](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch03/ex3-4.md)
+- [x] [3.5 Adding a Functional Delay Using a Future](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch03/ex3-5.md)
+- [x] [3.6 Using Optional parameters](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch03/ex3-6.md)
 
 
 ## [Chapter 4 Handling maps and lists](https://github.com/rosera/flutter-and-dart-cookbook/tree/main/ch04)
