@@ -1,4 +1,4 @@
-# 2.2 Declaring a Double variable
+# 1.3 Declaring a Double variable
  
 ## Example
 
