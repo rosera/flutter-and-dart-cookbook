@@ -136,8 +136,8 @@ Companion repository for O'Reilly Flutter & Dart Full Stack Cookbook
 - [x] [13.3 Asset folder management](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch13/ex13-3.md)
 - [x] [13.4 Remote data management JSON](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch13/ex13-4.md)
 - [x] [13.5 Automating JSON to Dart classes](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch13/ex13-5.md)
-- [x] [13.6 Using JSON serialization](https://github.com/rosera/flutter-and-dart-cookbook-examples/blob/main/ch13/ex13-6.md)
-
+- [x] [13.6 Using JSON serialization](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch13/ex13-6.md)
+- [x] [13.7 Generating Dart Classes from JSON](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch13/ex13-7.md)
 
 ## [Chapter 14 Testing the Flutter user interface](https://github.com/rosera/flutter-and-dart-cookbook/tree/main/ch14)
 
