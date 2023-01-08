@@ -7,11 +7,10 @@ Developing Full-Stack Applications for the Cloud
 
 Companion repository for O'Reilly Flutter & Dart Full Stack Cookbook
 
-## Handling data assets 
+## Flutter page navigation 
 
-- [x] [12.1 Refactoring data](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch12/ex12-1.md)
-- [x] [12.2 Local data management](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch12/ex12-2.md)
-- [x] [12.3 Asset folder management](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch12/ex12-3.md)
-- [x] [12.4 Remote data management JSON](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch12/ex12-4.md)
-- [x] [12.5 Automating JSON to Dart classes](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch12/ex12-5.md)
-- [x] [12.6 Using JSON serialization](https://github.com/rosera/flutter-and-dart-cookbook-examples/blob/main/ch12/ex12-6.md)
+- [x] [11.1 Adding page navigation with routes ](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch11/ex11-1.md)
+- [x] [11.2 Implementing a navigational drawer](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch11/ex11-2.md)
+- [x] [11.3 Working with tabs](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch11/ex11-3.md)
+- [x] [11.4 Adding bottom navigation ](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch11/ex11-4.md)
+- [x] [11.5 Using keys to pass information](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch11/ex11-5.md)

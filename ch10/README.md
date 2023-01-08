@@ -7,10 +7,11 @@ Developing Full-Stack Applications for the Cloud
 
 Companion repository for O'Reilly Flutter & Dart Full Stack Cookbook
 
-## Organising on screen data 
+## Developing user interfaces 
 
-- [x] [10.1 Implementing a vertical list](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch10/ex10-1.md)
-- [x] [10.2 Implementing a horizontal list](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch10/ex10-2.md)
-- [x] [10.3 Adding a SliverAppBar](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch10/ex10-3.md)
-- [x] [10.4 Adding a grid of items](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch10/ex10-4.md)
-- [x] [10.5 Adding a SnackBar (pop up notification](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch10/ex10-5.md)
+- [x] [9.1 Incorporating rich text](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch09/ex9-1.md)
+- [x] [9.2 Incororating the Google Fonts package](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch09/ex9-2.md)
+- [x] [9.3 Identifying the host platform](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch09/ex9-3.md)
+- [x] [9.4 Using a Placeholder widget](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch09/ex9-4.md)
+- [x] [9.5 Using a Layout builder](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch09/ex9-5.md)
+- [x] [9.6 Getting screen dimensions with Media query](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch09/ex9-6.md)
