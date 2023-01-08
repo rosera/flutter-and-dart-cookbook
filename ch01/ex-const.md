@@ -1,4 +1,4 @@
-# 2.6 Using a Const
+# 1.7 Using a Const
 
 ## Example 1 (Compile Time)
 
