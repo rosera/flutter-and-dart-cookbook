@@ -185,12 +185,12 @@ Companion repository for O'Reilly Flutter & Dart Full Stack Cookbook
 - [x] [17.9 Adding input for user interactivity](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch17/ex17-9.md)
 
 
-## [Appendix Setting up your environment](https://github.com/rosera/flutter-and-dart-cookbook/tree/main/ch01)
+## [Appendix Setting up your environment](https://github.com/rosera/flutter-and-dart-cookbook/tree/main/appendix)
 
 
 - [x] [18.1 How to install the Dart SDK](http://github.com/rosera/flutter-and-dart-cookbook/blob/main/appendix/ex1-1.md)
 - [x] [18.2 How to run a Dart application](http://github.com/rosera/flutter-and-dart-cookbook/blob/main/appendix/ex1-2.md)
-- [x] [18.3 Extending Android Studio to support Dart](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/appendix/ex1-3.md
+- [x] [18.3 Extending Android Studio to support Dart](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/appendix/ex1-3.md)
 - [x] [18.4 Developing with VS Code](http://github.com/rosera/flutter-and-dart-cookbook/blob/main/appendix/ex1-4.md)
 - [x] [18.5 Installing the Dart SDK](http://github.com/rosera/flutter-and-dart-cookbook/blob/main/appendix/ex1-5.md)
 - [x] [18.6 Running a Dart application](http://github.com/rosera/flutter-and-dart-cookbook/blob/main/appendix/ex1-6.md)
