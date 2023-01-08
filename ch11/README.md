@@ -14,3 +14,4 @@ Companion repository for O'Reilly Flutter & Dart Full Stack Cookbook
 - [x] [11.3 Adding a SliverAppBar](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch11/ex11-3.md)
 - [x] [11.4 Adding a grid of items](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch11/ex11-4.md)
 - [x] [11.5 Adding a SnackBar (pop up notification](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch11/ex11-5.md)
+- [x] [11.6 Adding a SliverList](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch11/ex11-6.md)
