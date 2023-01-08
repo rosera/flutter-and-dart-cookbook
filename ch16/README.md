@@ -14,3 +14,4 @@ Companion repository for O'Reilly Flutter & Dart Full Stack Cookbook
 - [x] [16.3 Using cloud storage to host and API](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch16/ex16-3.md)
 - [x] [16.4 Using a spreadsheet as a backend](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch16/ex16-4.md)
 - [x] [16.5 Developing with serverless (cloud run)](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch16/ex16-5.md)
+- [x] [16.6 Backend HTTP Server](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch16/ex16-6.md)
