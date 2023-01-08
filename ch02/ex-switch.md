@@ -1,4 +1,4 @@
-# 3.4 Using a Switch statement
+# 2.4 Using a Switch statement
 
 
 # Example

@@ -1,4 +1,4 @@
-# 3.1 Using an If statement
+# 2.1 Using an If statement
 
 
 ## Example

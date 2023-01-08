@@ -1,4 +1,4 @@
-# 3.3 Using a For statement
+# 2.3 Using a For statement
 
 # Example: For loop
 

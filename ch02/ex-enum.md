@@ -1,4 +1,4 @@
-# 3.5 Using an Enum
+# 2.5 Using an Enum
 
 # Example: Enum 
 

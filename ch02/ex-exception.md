@@ -1,4 +1,4 @@
-# 3.6 Handling Exceptions
+# 2.6 Handling Exceptions
 
 # Example 
 

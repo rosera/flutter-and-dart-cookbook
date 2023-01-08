@@ -1,4 +1,4 @@
-# 3.2 Using While/Do While
+# 2.2 Using While/Do While
 
 
 ## Example: While loop
