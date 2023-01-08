@@ -1,4 +1,4 @@
-# 2.3 Declaring a Bool variable
+# 1.4 Declaring a Bool variable
  
 ## Example
 
