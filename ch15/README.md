@@ -18,3 +18,4 @@ Companion repository for O'Reilly Flutter & Dart Full Stack Cookbook
 - [x] [15.7 Setting up cloud Firestore](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch15/ex15-7.md)
 - [x] [15.8 Writing data to cloud Firestore](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch15/ex15-8.md)
 - [x] [15.9 Reading data from cloud Firestore](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch15/ex15-9.md)
+- [x] [15.10 Using Flutter Web with Firebase Hosting](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch15/ex15-10.md)
