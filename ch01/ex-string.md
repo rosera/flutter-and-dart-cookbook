@@ -1,4 +1,4 @@
-# 2.4 Declaring a String variable
+# 1.5 Declaring a String variable
  
 ## Example
 
