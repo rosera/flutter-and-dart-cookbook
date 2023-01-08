@@ -1,4 +1,4 @@
-# 2.5 Using a Print statement
+# 1.6 Using a Print statement
 
 ## Example 1
 
