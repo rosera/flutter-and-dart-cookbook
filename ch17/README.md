@@ -17,7 +17,7 @@ Companion repository for O'Reilly Flutter & Dart Full Stack Cookbook
 - [x] [17.6 Adding sound effects to a Flame game](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch17/ex17-6.md)
 - [x] [17.7 Adding keyboard input](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch17/ex17-7.md)
 - [x] [17.8 Adding collision detection](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch17/ex17-8.md)
-- [x] [17.9 Adding inout for user interactivity](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch17/ex17-9.md)
+- [x] [17.9 Adding input for user interactivity](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch17/ex17-9.md)
 
 ## Examples
 
