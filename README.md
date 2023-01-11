@@ -9,19 +9,18 @@ Companion repository for O'Reilly Flutter & Dart Full Stack Cookbook
 
 ## [Chapter 1 Learning Dart variables](https://github.com/rosera/flutter-and-dart-cookbook/tree/main/ch01)
 
+- [x] [1.1 Running a Dart application](http://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch01/ex-dart.md)
+- [x] [1.2 Working with Integer values](http://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch01/ex-integer.md)
+- [x] [1.3 Working with Double values](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch01/ex-double.md)
+- [x] [1.4 Working with Boolean values](http://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch01/ex-bool.md)
+- [x] [1.5 Working with Strings](http://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch01/ex-string.md)
+- [x] [1.6 Printing information to the console](http://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch01/ex-print.md)
+- [x] [1.7 Adding a Constant Variable (Compile Time)](http://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch01/ex-const.md)
+- [x] [1.8 Adding a Constant Variable (Runtime)](http://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch01/ex-final.md)
+- [x] [1.9 Working with Null variables](http://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch01/ex-null.md)
 
-- [x] [1.1 Running a Dart application](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch01/ex-dart.md)
-- [x] [1.2 Declaring an integer variable](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch01/ex-integer.md)
-- [x] [1.3 Declaring a Double variable](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch01/ex-double.md)
-- [x] [1.4 Declaring a bool variable](http://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch01/ex-bool.md)
-- [x] [1.5 Declaring a string variable](http://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch01/ex-string.md)
-- [x] [1.6 Using a print statement](http://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch01/ex-print.md)
-- [x] [1.7 Using a const](http://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch01/ex-const.md)
-- [x] [1.8 Using final](http://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch01/ex-final.md)
-- [x] [1.9 Working with Null](http://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch01/ex-null.md)
 
 ## [Chapter 2 Exploring control flow](https://github.com/rosera/flutter-and-dart-cookbook/tree/main/ch02)
-
 
 - [x] [2.1 Using an If statement](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch02/ex-if.md)
 - [x] [2.2 Using While/Do while](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch02/ex-while.md)
@@ -36,20 +35,20 @@ Companion repository for O'Reilly Flutter & Dart Full Stack Cookbook
 
 - [x] [3.1 Declaring functions](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch03/ex3-1.md)
 - [x] [3.2 Adding Parameters to functions](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch03/ex3-2.md)
-- [x] [3.3 Returning values from functions](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch03/ex3-3.md)
-- [x] [3.4 Declaring anonymous functions](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch03/ex3-4.md)
+- [x] [3.3 Using Optional parameters](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch03/ex3-6.md)
+- [x] [3.4 Returning values from functions](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch03/ex3-3.md)
+- [x] [3.5 Declaring anonymous functions](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch03/ex3-4.md)
 - [x] [3.5 Adding a Functional Delay Using a Future](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch03/ex3-5.md)
-- [x] [3.6 Using Optional parameters](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch03/ex3-6.md)
 
 
 ## [Chapter 4 Handling maps and lists](https://github.com/rosera/flutter-and-dart-cookbook/tree/main/ch04)
 
-- [x] [4.1 Using a map to handle objects](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch04/ex4-1.md)
-- [x] [4.2 Retrieving map content](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch04/ex4-2.md)
-- [x] [4.3 Validating key existence within a map](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch04/ex4-3.md)
-- [x] [4.4 Working with lists](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch04/ex4-4.md)
-- [x] [4.5 Adding list content](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch04/ex4-5.md)
-- [x] [4.6 Using lists with complex types](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch04/ex4-6.md)
+- [x] [4.1 Working with lists](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch04/ex4-4.md)
+- [x] [4.2 Adding list content](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch04/ex4-5.md)
+- [x] [4.3 Using lists with complex types](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch04/ex4-6.md)
+- [x] [4.4 Using a map to handle objects](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch04/ex4-1.md)
+- [x] [4.5 Retrieving map content](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch04/ex4-2.md)
+- [x] [4.6 Validating key existence within a map](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch04/ex4-3.md)
 - [x] [4.7 Printing Complex Data Types](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch04/ex4-7.md)
 
 ## [Chapter 5 Leveraging classes](https://github.com/rosera/flutter-and-dart-cookbook/tree/main/ch05)
