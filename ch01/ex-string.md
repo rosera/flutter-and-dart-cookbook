@@ -4,6 +4,7 @@
 
 ```dart
 void main()
+{
 String myVariable  = "I am a string";
 
 String myVariable2 = """ 
