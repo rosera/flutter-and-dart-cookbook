@@ -2,7 +2,11 @@
  
 ## Example Code
 
-Use Dart to print a message on screen.
+The print() function is used to print text to the console. 
+In this case, the text that is printed is "Hello, Dart World!".
+
+The print() function is a built-in function in Dart. 
+It can be used to print any type of data, including strings, numbers, and objects.
 
 ```dart
 void main() {

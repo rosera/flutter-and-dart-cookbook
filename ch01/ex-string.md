@@ -2,6 +2,10 @@
  
 ## Example Code
 
+The variable myVariable is assigned the string literal "I am a string". 
+The variable myVariable2 is assigned a multiline string literal, which is enclosed in three double quotes.
+The print() function prints the value of the variable to the console.
+
 ```dart
 void main() {
   String myVariable = "I am a string";

@@ -4,6 +4,11 @@
 
 A compile time value is known when the application code is generated.
 
+* The first line declares a variable called daysInYear and assigns it the type const.
+* The second line assigns the value 365 to the variable daysInYear.
+* The third line calls the print() function and passes the value of daysInYear as an argument.
+* The print() function will then print the value of daysInYear to the console.
+
 ```dart
 void main() {
   const daysInYear = 365;
@@ -25,8 +30,11 @@ There are 365 days in a year
 ## Example Code 2 (Run Time)
 
 A run time value is known when the application is run.
-In the example, the variable today.weekday will show the day of of the week. 
-The value displayed is dependent on which weekday the application is run.
+
+* The first line declares a variable called today and assigns it the value of the current date and time.
+* The second line calls the weekday() method on the today variable and passes the result to the print() function.
+* The weekday() method returns an integer representing the day of the week, with 0 representing Monday, 1 representing Tuesday, and so on.
+* The print() function will then print the value of the weekday() method to the console.
 
 ```dart
 void main() {
