@@ -1,6 +1,12 @@
 # 1.1 Running a Dart application
  
-## Example
+## Example Code
+
+The print() function is used to print text to the console. 
+In this case, the text that is printed is "Hello, Dart World!".
+
+The print() function is a built-in function in Dart. 
+It can be used to print any type of data, including strings, numbers, and objects.
 
 Use Dart to print a message on screen.
 
@@ -16,8 +22,9 @@ To run a dart application from the command line:
 dart main.dart
 ```
 
+## Example Output:
 
-Expected Output:
+The result of the print statement is shown below:
 
 ```dart
 Hello, Dart World!
