@@ -1,6 +1,6 @@
 # 1.4 Declaring a Bool variable
  
-## Example
+## Example Code
 
 ```dart 
 void main() {
@@ -9,3 +9,11 @@ void main() {
  print(myVariable);
 }
 ```
+
+## Example Output:
+
+The result of the print statement is shown below:
+```dart
+true
+```
+

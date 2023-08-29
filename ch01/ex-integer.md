@@ -1,6 +1,6 @@
 # 1.2 Declaring an Integer variable
  
-## Example
+## Example Code
 
 ```dart
 void main() {
@@ -8,5 +8,12 @@ void main() {
   
   print(myVariable);
 }
+```
 
+## Example Output 
+
+The result of the application code is shown below:
+
+```dart
+35
 ```

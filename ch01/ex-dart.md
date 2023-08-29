@@ -1,6 +1,6 @@
 # 1.1 Running a Dart application
  
-## Example
+## Example Code
 
 Use Dart to print a message on screen.
 
@@ -16,8 +16,9 @@ To run a dart application from the command line:
 dart main.dart
 ```
 
+## Example Output:
 
-Expected Output:
+The result of the print statement is shown below:
 
 ```dart
 Hello, Dart World!

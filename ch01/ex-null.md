@@ -1,7 +1,7 @@
 # 1.9 Working with Null
 
 
-## Example
+## Example Code
 
 ```dart
 void main(){
@@ -11,5 +11,14 @@ void main(){
   myVariable = 10;
   print ('ten: $myVariable');
 }
+```
+
+## Example Output:
+
+The result of the print statement is shown below:
+
+```dart
+ten: null
+ten: 10
 ```
 

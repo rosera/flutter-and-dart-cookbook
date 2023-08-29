@@ -1,14 +1,24 @@
 # 1.6 Using a Print statement
 
-## Example 1
+## Example Code 1
 
 ```dart
 void main() {
  
   print('Hello World!');
 }
+
 ``` 
-## Example 2
+
+## Example Output:
+
+The result of the print statement is shown below:
+
+```dart
+Hello World!
+```
+
+## Example Code 2
 
 ```dart
 void main() {
@@ -23,7 +33,18 @@ void main() {
 
 ```
 
-## Example 3
+
+## Example Output:
+
+The result of the print statement is shown below:
+
+```dart
+10
+10
+The bool variable is true
+```
+
+## Example Code 3
 
 ```dart
 import 'dart:convert';
@@ -45,3 +66,14 @@ void main() {
 }
 ```
 
+
+## Example Output:
+
+The result of the print statement is shown below:
+
+```dart
+{title: Star Wars, year: 1979}
+Star Wars
+This is the title: {title: Star Wars, year: 1979}['title']
+This is the title: Star Wars
+```
