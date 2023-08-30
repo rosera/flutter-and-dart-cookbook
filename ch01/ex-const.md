@@ -33,7 +33,7 @@ A run time value is known when the application is run.
 
 * The first line declares a variable called today and assigns it the value of the current date and time.
 * The second line calls the weekday() method on the today variable and passes the result to the print() function.
-* The weekday() method returns an integer representing the day of the week, with 0 representing Monday, 1 representing Tuesday, and so on.
+* The weekday() method returns an integer representing the day of the week, with 1 representing Monday, 2 representing Tuesday, and so on.
 * The print() function will then print the value of the weekday() method to the console.
 
 ```dart
