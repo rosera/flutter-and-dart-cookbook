@@ -1,6 +1,6 @@
 # 1.7 Using a Const
 
-## Example Code 1 (Compile Time)
+## Example Code 1 (Compile Time):
 
 A compile time value is known when the application code is generated.
 
@@ -27,7 +27,7 @@ There are 365 days in a year
 ```
 
 
-## Example Code 2 (Run Time)
+## Example Code 2 (Run Time):
 
 A run time value is known when the application is run.
 

@@ -1,6 +1,6 @@
 # 1.5 Declaring a String variable
  
-## Example Code
+## Example Code:
 
 The variable myVariable is assigned the string literal "I am a string". 
 The variable myVariable2 is assigned a multiline string literal, which is enclosed in three double quotes.

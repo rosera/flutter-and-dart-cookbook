@@ -1,6 +1,6 @@
 # 1.2 Declaring an Integer variable
  
-## Example Code
+## Example Code:
 
 The print() function print the value of myVariable, which is 35.
 
@@ -16,7 +16,7 @@ void main() {
 }
 ```
 
-## Example Output 
+## Example Output:
 
 The result of the application code is shown below:
 
