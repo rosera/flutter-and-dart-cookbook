@@ -47,12 +47,12 @@ Follow Author Rich Rose on:
 
 ## [Chapter 4 Handling maps and lists](https://github.com/rosera/flutter-and-dart-cookbook/tree/main/ch04)
 
-- [x] [4.1 Working with lists](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch04/ex4-4.md)
-- [x] [4.2 Adding list content](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch04/ex4-5.md)
-- [x] [4.3 Using lists with complex types](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch04/ex4-6.md)
-- [x] [4.4 Using a map to handle objects](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch04/ex4-1.md)
-- [x] [4.5 Retrieving map content](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch04/ex4-2.md)
-- [x] [4.6 Validating key existence within a map](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch04/ex4-3.md)
+- [x] [4.1 Creating Lists of Data](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch04/ex4-1.md)
+- [x] [4.2 Amending a List of Data](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch04/ex4-2.md)
+- [x] [4.3 Using lists with complex types](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch04/ex4-3.md)
+- [x] [4.4 Handling Map Key/Value Pairings](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch04/ex4-4.md)
+- [x] [4.5 Printing Map Data Structure Content](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch04/ex4-5.md)
+- [x] [4.6 Validating That Content exists in a Map](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch04/ex4-6.md)
 - [x] [4.7 Printing Complex Data Types](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/ch04/ex4-7.md)
 
 ## [Chapter 5 Leveraging classes](https://github.com/rosera/flutter-and-dart-cookbook/tree/main/ch05)
