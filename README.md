@@ -2,10 +2,11 @@
 
 Developing Full-Stack Applications for the Cloud
 
+Companion repository for O'Reilly Flutter & Dart Full Stack Cookbook
 ![Flutter & Dart Cookbook](https://github.com/rosera/flutter-and-dart-cookbook/blob/main/images/flutter-dart-cookbook-sml.png "Flutter & Dart Cookbook")
 
-Companion repository for O'Reilly Flutter & Dart Full Stack Cookbook
-Follow Author Rich Rose:
+
+Follow Author Rich Rose on:
 * [LinkedIn](https://www.linkedin.com/in/rosera/)
 * [X formerly known as Twitter](https://twitter.com/coder_rosey)
 
