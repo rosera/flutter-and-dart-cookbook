@@ -1,6 +1,6 @@
 # 1.4 Declaring a Bool variable
 
-## Example Code
+## Example Code:
 
 * The first line declares a variable called myVariable and assigns it the type bool.
 * The second line assigns the value true to the variable myVariable.

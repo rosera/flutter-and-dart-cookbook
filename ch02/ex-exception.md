@@ -1,6 +1,25 @@
 # 2.6 Handling Exceptions
 
-# Example 
+## Example Code:
+
+The indexOf() method throws a RangeError exception when the specified substring is not found. 
+In this case, the substring name[0] is not found at the index name.length - (name.length+2), so the RangeError exception is thrown.
+
+The try block is used to execute code that might cause an exception. 
+The on clause specifies the type of exception that is expected. 
+In this case, the on clause specifies that a RangeError exception is expected.
+
+The catch clause is used to handle the exception. 
+The catch clause prints the exception message to the console.
+
+The finally block is always executed, regardless of whether an exception is thrown.
+
+In this case, the try block executes the code that calls the indexOf() method. 
+The indexOf() method throws a RangeError exception, which is handled by the on clause. 
+The on clause prints the exception message to the console.
+
+The finally block prints the message "Mission completed!" to the console. 
+This message is always printed, regardless of whether an exception is thrown.
 
 ```dart
 void main(){
@@ -19,5 +38,14 @@ void main(){
     print ('Mission completed!');
   }
 }
+```
 
+## Example Output:
+
+The result of the print statement is shown below:
+
+```dart
+Name: Dart
+On Exception: substring not found
+Mission completed!
 ```

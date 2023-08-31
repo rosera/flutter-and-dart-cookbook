@@ -1,6 +1,6 @@
 # 1.3 Declaring a Double variable
  
-## Example Code
+## Example Code:
 The data type of myVariable is double. 
 This means that myVariable can store any floating-point number. 
 Floating-point numbers are numbers that have a decimal point and can be represented in scientific notation.

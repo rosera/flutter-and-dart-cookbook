@@ -1,6 +1,6 @@
 # 1.6 Using a Print statement
 
-## Example Code 1
+## Example Code 1:
 
 The print() function is used to print text to the console. 
 In this case, the text that is printed is "Hello World!".
@@ -24,7 +24,7 @@ The result of the print statement is shown below:
 Hello World!
 ```
 
-## Example Code 2
+## Example Code 2:
 
 The variable intVariable is declared as an integer and is assigned the value of 10. 
 The print() function will then print the value of intVariable, which is 10.
@@ -59,7 +59,7 @@ The result of the print statement is shown below:
 The bool variable is true
 ```
 
-## Example Code 3
+## Example Code 3:
 
 The code creates a JSON value, decodes it, and then prints the results.
 The first line imports the dart:convert library, which contains functions for converting between JSON and Dart objects.
