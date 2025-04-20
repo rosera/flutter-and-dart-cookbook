@@ -73,3 +73,13 @@ Monday
 Tuesday
 ```
 
+__Note__: 
+The forEach also allows explicit access to each element. For example the example below exposes the index and the item to be processed as values. If you need to perform an action on each item or reference the index, then use this recipe:
+
+```dart
+void main() {
+  List daysOfWeek = ['Sunday', 'Monday', 'Tuesday'];
+
+  daysOfWeek.asMap().forEach((index, item) => print('$index $item'));
+}
+``` 
